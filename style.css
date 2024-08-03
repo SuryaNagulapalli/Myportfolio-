@@ -88,8 +88,8 @@
     .image
     {   
         margin-top: 50px;
-        height: 200px;
-        width: 200px;
+        height: 250px;
+        width: 250px;
         border-radius: 50%;
         border: 3px;
         border-color:white;
@@ -125,6 +125,16 @@
     font-weight: bold;
     margin-left: 20px;
     margin-bottom: 6px;
+}
+    .main-container
+{
+    min-height: 90vh;
+    background-color:black;
+    background-size: cover;
+    border-bottom: 2px white solid;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
 }
 }
 @media screen and (min-width:477px){
@@ -168,17 +178,7 @@
     margin-left: 20px;
     margin-bottom: 6px;
 }
-}
-
-.logo
-{
-    height: 35px;
-    width: 35px;
-    border-radius: 50%;
-    border: 1px solid white;
-}
-
-.main-container
+    .main-container
 {
     min-height: 100vh;
     background-color:black;
@@ -187,6 +187,15 @@
     display: flex;
     justify-content:space-between;
     align-items: center;
+}
+}
+
+.logo
+{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    border: 1px solid white;
 }
 
 
