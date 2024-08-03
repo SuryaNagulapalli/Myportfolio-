@@ -88,8 +88,8 @@
     .image
     {   
         margin-top: 50px;
-        height: 250px;
-        width: 250px;
+        height: 300px;
+        width: 300px;
         border-radius: 50%;
         border: 3px;
         border-color:white;
@@ -124,6 +124,18 @@
     font-family: "Roboto";
     font-weight: bold;
     margin-left: 20px;
+    margin-bottom: 6px;
+}
+    .button-live
+{
+    background-color: white;
+    width: 90%;
+    border: 1px solid black;
+    color: black;
+    border-radius: 12px;
+    padding:8px;
+    font-family: "Roboto";
+    font-weight: bold;
     margin-bottom: 6px;
 }
     .main-container
@@ -176,6 +188,18 @@
     font-family: "Roboto";
     font-weight: bold;
     margin-left: 20px;
+    margin-bottom: 6px;
+}
+       .button-live
+{
+    background-color: white;
+    width: 90%;
+    border: 1px solid black;
+    color: black;
+    border-radius: 12px;
+    padding:8px;
+    font-family: "Roboto";
+    font-weight: bold;
     margin-bottom: 6px;
 }
     .main-container
