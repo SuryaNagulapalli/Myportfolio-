@@ -87,8 +87,8 @@
 @media screen and (max-width:476px){
     .image
     {   
-        height: 280px;
-        width: 280px;
+        height: 250px;
+        width: 250px;
         border-radius: 50%;
         border: 3px;
         border-color:white;
@@ -101,7 +101,7 @@
     .button-hire
 {
     background-color: white;
-    width: 130px;
+    width: 150px;
     border: 1px solid black;
     color: black;
     border-radius: 12px;
